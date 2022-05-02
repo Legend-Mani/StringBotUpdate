@@ -8,7 +8,7 @@ from Config import ALIVE_PIC
 ALPHA_PIC = ALIVE_PIC if ALIVE_PIC else "https://te.legra.ph/file/9a207e6e453a93ab2b165.jpg"
 
 # Start Message
-@Client.on_message(filters.private & filters.incoming & filters.command("start"))
+@TelegramClient.on(events.NewMessage(pattern="/start"))
 async def start(bot, msg):
 	user = await bot.get_me()
 	mention = user["mention"]
