@@ -1,5 +1,7 @@
 from Data import Data
 from pyrogram import Client, filters
+from telethon.tl.functions.users import GetFullUserRequest
+from telethon import events
 from pyrogram.types import InlineKeyboardMarkup
 from Config import ALIVE_PIC
 
