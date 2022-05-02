@@ -20,5 +20,5 @@ async def start(event):
        userid = replied_user.user.id
        await event.client.send_file(TheMighty,
                   ALPHA_IMG,
-                  caption=ownermsg, 
-                  buttons=Mig_Button)
+                  Data.START.format(msg.from_user.mention, mention)
+                  reply_markup=InlineKeyboardMarkup(Data.buttons))
