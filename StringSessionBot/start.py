@@ -10,8 +10,9 @@ ALPHA_PIC = ALIVE_PIC if ALIVE_PIC else "https://te.legra.ph/file/9a207e6e453a93
 async def start(bot, msg):
 	user = await bot.get_me()
 	mention = user["mention"]
-	await bot.send_message(ALPHA_PIC,
+	await bot.send_message(
 		msg.chat.id,
+                ALPHA_PIC,
 		Data.START.format(msg.from_user.mention, mention),
 		reply_markup=InlineKeyboardMarkup(Data.buttons)
 	)
