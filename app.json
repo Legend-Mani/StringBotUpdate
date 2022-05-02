@@ -46,6 +46,11 @@
       "description": "Obtain a Telegram bot token by contacting @BotFather",
       "required": true,
       "value": ""
+    },
+    "ALIVE_PIC": {
+      "description": "Get from @vTelegraphbot or else leave it as it is",
+      "required": false,
+      "value": ""
     }
   }
 }
