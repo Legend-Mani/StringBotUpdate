@@ -1,5 +1,7 @@
 import os
 
+from decouple import config
+
 ENVIRONMENT = os.environ.get('ENVIRONMENT', False)
 
 if ENVIRONMENT:
