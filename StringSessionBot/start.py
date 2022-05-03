@@ -9,6 +9,12 @@ Alp = TelegramClient('Alp', API_ID, API_HASH).start(bot_token=BOT_TOKEN)
 
 ALPHA_IMG = ALIVE_PIC if ALIVE_PIC else "https://te.legra.ph/file/9a207e6e453a93ab2b165.jpg"
 
+ALP_Button = [
+        [
+        Button.inline("👉 Click here to generate", data="generate_back")
+        ]
+        ]
+
 # Start Message
 @TelegramClient.on(events.NewMessage(pattern="/start"))
 async def start(event):              
