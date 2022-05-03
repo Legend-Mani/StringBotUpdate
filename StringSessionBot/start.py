@@ -93,14 +93,14 @@ $ If any suggestions   ••>>  [Alpha](t.me/NotReallyAlpha)
 @Alp.on(events.NewMessage(pattern="/start"))
 async def start(event):              
     if event.is_private:
-       MigBot = await event.client.get_me()
-       bot_name = MigBot.first_name
-       bot_id = MigBot.id
+       AlfBot = await event.client.get_me()
+       bot_name = AlfBot.first_name
+       bot_id = AlfBot.id
        replied_user = await event.client(GetFullUserRequest(event.sender_id))
-       TheMighty = event.chat_id
+       TheYashvi = event.chat_id
        firstname = replied_user.user.first_name
        userid = replied_user.user.id
-       await event.client.send_file(TheMighty,
+       await event.client.send_file(TheYashvi,
                   ALPHA_IMG,
                   Data.START.format(msg.from_user.mention, mention),
                   buttons=ALP_Button)
