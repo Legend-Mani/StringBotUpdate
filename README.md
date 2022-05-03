@@ -4,9 +4,9 @@
 
 # Credits
  
-* Ｏｗｎｅｒｓ      :- [𝐃𝐄𝐯𝐄𝐬𝐇](https://t.me/iTz_DEv_xD) , [𝐀𝐋𝐏𝐇𝐀](https://t.me/NotReallyAlpha)
-* 
-* Ｄｅｖｅｌｏｐｅｒ :- [𝐌𝐚𝐧𝐢](t.me/NotReallyMani)
+* Ｏｗｎｅｒ         :- [𝐃𝐄𝐯𝐄𝐬𝐇](https://t.me/iTz_DEv_xD) 
+* Ｎｏｔ Ｒｅａｌｌｙ :- [𝐀𝐋𝐏𝐇𝐀](https://t.me/NotReallyAlpha)
+* Ｄｅｖｅｌｏｐｅｒ  :- [𝐌𝐚𝐧𝐢](t.me/NotReallyMani)
 
 -------------
 
