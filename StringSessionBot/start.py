@@ -8,7 +8,7 @@ from telethon.tl.custom import button
 from pyrogram.types import InlineKeyboardMarkup
 from Config import API_ID, API_HASH, BOT_TOKEN
 
-Alp = TelegramClient('Alp', API_ID, API_HASH).start(bot_token=BOT_TOKEN)
+Alf = TelegramClient('Alf', API_ID, API_HASH).start(bot_token=BOT_TOKEN)
 
 ALPHA_IMG = "https://te.legra.ph/file/9a207e6e453a93ab2b165.jpg"
 
@@ -93,7 +93,7 @@ $ If any suggestions   ••>>  [Alpha](t.me/NotReallyAlpha)
 
 
 # Start Message
-@Alp.on(events.NewMessage(pattern="/start"))
+@Alf.on(events.NewMessage(pattern="/start"))
 async def start(event):              
     if event.is_private:
        AlfBot = await event.client.get_me()
