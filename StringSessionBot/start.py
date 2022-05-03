@@ -4,6 +4,7 @@ from Data import Data
 from pyrogram import Client, filters
 from telethon.tl.functions.users import GetFullUserRequest
 from telethon import TelegramClient, events, Button
+from telethon.tl.custom import button
 from pyrogram.types import InlineKeyboardMarkup
 from Config import API_ID, API_HASH, BOT_TOKEN
 
