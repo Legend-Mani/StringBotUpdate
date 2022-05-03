@@ -102,5 +102,5 @@ async def start(event):
        userid = replied_user.user.id
        await event.client.send_file(TheMighty,
                   ALPHA_IMG,
-                  Data.START.format(msg.from_user.mention, mention)
+                  Data.START.format(msg.from_user.mention, mention),
                   buttons=ALP_Button)
