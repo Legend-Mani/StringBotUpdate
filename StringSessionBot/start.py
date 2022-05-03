@@ -3,7 +3,7 @@ from pyrogram import Client, filters
 from telethon.tl.functions.users import GetFullUserRequest
 from telethon import TelegramClient, events, Button
 from pyrogram.types import InlineKeyboardMarkup
-from Config import ALIVE_PIC
+from Config import ALIVE_PIC, API_ID, API_HASH, BOT_TOKEN
 
 Alp = TelegramClient('Alp', API_ID, API_HASH).start(bot_token=BOT_TOKEN)
 
