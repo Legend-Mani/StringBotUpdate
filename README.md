@@ -4,7 +4,9 @@
 
 # Credits
  
-* Owners :- [DEV-END](https://t.me/iTz_DEv_xD) , [ALPHA](https://t.me/NotReallyAlpha)
+* Owners    :- [DEV-END](https://t.me/iTz_DEv_xD) , [ALPHA](https://t.me/NotReallyAlpha)
+
+* Developer :- [Mani](t.me/NotReallyMani)
 
 -------------
 
