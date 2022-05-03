@@ -27,6 +27,68 @@ ALP_Button = [
         ]
         ]
 
+help_msg = f"""
+
+» click on generate button ; Then you'll get to see two buttons 
+» 1.Pyrogram - For music bots 
+» 2.Telethon - For all bots except music one !
+» Choose what ya want ! 
+» Submit API ID , API HASH , NUMBER , CODE !
+» STRING WILL BE SENT TO SAVED MESSAGES ! ✨💫
+____
+
+Thx for using our bot ! ✨💫
+"""
+
+about_msg = f"""
+
+** Alpha String Bot © **
+
+Bot to generate session with privacy ! [©](https://t.me/NotReallyAlpha) 
+
+[𝐃𝐄𝐯𝐄𝐬𝐇](https://t.me/iTz_DEv_xD) | [𝐀𝐋𝐏𝐇𝐀](https://t.me/NotReallyAlpha)
+
+Language Used : Python
+           
+Contact Owner and Developers [here](https://t.me/BTS_CHAT_ZONE) 
+"""
+
+cmda_msg = f"""
+
+**Available commands in Alpha Bot**
+
+/start    - To start the bot ✨💫
+/generate - To start string generation !
+/help     - To view the tutorial.
+/about    - Details to contact the developer !
+
+"""
+
+alphaversion_msg = f"""
+
+**Alpha Version**
+
+$ Version Name     - end.2.0
+$ Version started  - 01/05/2022
+$ Updated by       - [Alpha](t.me/NotReallyAlpha)
+
+**Updated features**
+
+$ Added "commands" button for new users !
+$ Added "Alpha Version" button !
+$ Bug fixes 
+
+**Upcoming update**
+
+$ you can see next update on 15/05/2022 !
+$ going to add cool pic : when the user starts the bot !
+
+_____
+$ If any suggestions   ••>>  [Alpha](t.me/NotReallyAlpha)
+
+"""
+
+
 # Start Message
 @TelegramClient.on(events.NewMessage(pattern="/start"))
 async def start(event):              
