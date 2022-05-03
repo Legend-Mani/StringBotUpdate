@@ -1,22 +1,22 @@
-## Alpha ©
+## ᴀʟᴘʜᴀ ©
 
   [![ALPHA](https://user-images.githubusercontent.com/101687704/166145466-4d238fb8-552d-4a6a-9364-4f9e07876f7d.jpeg)](https://t.me/NotReallyAlpha)
 
 # Credits
  
-* Owners    :- [DEV-END](https://t.me/iTz_DEv_xD) , [ALPHA](https://t.me/NotReallyAlpha)
-
-* Developer :- [Mani](t.me/NotReallyMani)
+* Ｏｗｎｅｒｓ      :- [𝐃𝐄𝐯𝐄𝐬𝐇](https://t.me/iTz_DEv_xD) , [𝐀𝐋𝐏𝐇𝐀](https://t.me/NotReallyAlpha)
+* 
+* Ｄｅｖｅｌｏｐｅｒ :- [𝐌𝐚𝐧𝐢](t.me/NotReallyMani)
 
 -------------
 
-# Available in telegram as [End](https://t.me/EndStringBot)
+# 𝙰𝚟𝚊𝚒𝚕𝚊𝚋𝚕𝚎 𝚘𝚗 𝚝𝚎𝚕𝚎𝚐𝚛𝚊𝚖 𝚊𝚜 [𝐄𝐧𝐝](https://t.me/EndStringBot)
 
 _____________
 
 <h3> Dєρℓογ το нєяοκυ </h3>
 
-- CLICK ON IMAGE BELOW 👇! 
+- ＣＬＩＣＫ ＯＮ ＩＭＡＧＥ ＢＥＬＯＷ 👇! 
 
 - [![Deploy](https://te.legra.ph/file/036a953de0ad5669ed6e4.jpg)](https://heroku.com/deploy?template=https://github.com/Legend-Mani/StringBotUpdate.git)
 
@@ -24,9 +24,9 @@ _____________
 
 <h3> Forked deployment </h3>
 
-- FORK THIS REPO
+- 𝙵𝙾𝚁𝙺 𝚃𝙷𝙸𝚂 𝚁𝙴𝙿𝙾 
 
-- EDIT REPO IN README.MD 
+- 𝙴𝙳𝙸𝚃 𝚁𝙴𝙿𝙾 𝙸𝙽 𝚁𝙴𝙰𝙳𝙼𝙴.𝙼𝙳 
 
-- IF U R A BEGINNER , SOON YOU WILL SEE A VIDEO HERE !
+- 𝙸𝙵 𝚄 𝚁 𝙰 𝙱𝙴𝙶𝙸𝙽𝙽𝙴𝚁 , 𝚂𝙾𝙾𝙽 𝚈𝙾𝚄 𝚆𝙸𝙻𝙻 𝚂𝙴𝙴 𝙰 𝚅𝙸𝙳𝙴𝙾 𝙷𝙴𝚁𝙴 !
 
