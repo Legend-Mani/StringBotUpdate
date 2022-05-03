@@ -5,6 +5,8 @@ from telethon import TelegramClient, events
 from pyrogram.types import InlineKeyboardMarkup
 from Config import ALIVE_PIC
 
+Alp = TelegramClient('Alp', API_ID, API_HASH).start(bot_token=BOT_TOKEN)
+
 ALPHA_IMG = ALIVE_PIC if ALIVE_PIC else "https://te.legra.ph/file/9a207e6e453a93ab2b165.jpg"
 
 # Start Message
