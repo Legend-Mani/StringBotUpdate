@@ -90,7 +90,7 @@ $ If any suggestions   ••>>  [Alpha](t.me/NotReallyAlpha)
 
 
 # Start Message
-@TelegramClient.on(events.NewMessage(pattern="/start"))
+@Alp.on(events.NewMessage(pattern="/start"))
 async def start(event):              
     if event.is_private:
        MigBot = await event.client.get_me()
