@@ -41,4 +41,4 @@ async def start(event):
        await event.client.send_file(TheMighty,
                   ALPHA_IMG,
                   Data.START.format(msg.from_user.mention, mention)
-                  reply_markup=InlineKeyboardMarkup(Data.buttons))
+                  buttons=ALP_Button)
