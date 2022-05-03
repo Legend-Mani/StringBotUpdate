@@ -12,6 +12,18 @@ ALPHA_IMG = ALIVE_PIC if ALIVE_PIC else "https://te.legra.ph/file/9a207e6e453a93
 ALP_Button = [
         [
         Button.inline("👉 Click here to generate", data="generate_back")
+        ],
+        [
+        Button.inline("✨ Tutorial 💫", data="help"),
+        Button.inline("✨ Contact 💫", data="about")
+        ],
+        [
+        Button.url("✨ Owner ❤️", "https://t.me/NotReallyAlpha"),
+        Button.url("✨ Group 💜", "https://t.me/BTS_CHAT_ZONE")
+        ],
+        [
+        Button.inline("✨ Commands 🔱", data="cmda"),
+        Button.inline("✨ Alphaversion 🔥", data="alphaversion")
         ]
         ]
 
